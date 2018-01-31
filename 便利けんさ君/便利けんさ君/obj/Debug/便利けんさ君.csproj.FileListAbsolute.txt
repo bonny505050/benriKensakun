@@ -1,0 +1,15 @@
+C:\Users\孝憲\OneDrive\アプリケーション\便利けんさ君\便利けんさ君\bin\Debug\便利けんさ君.exe.config
+C:\Users\孝憲\OneDrive\アプリケーション\便利けんさ君\便利けんさ君\bin\Debug\便利けんさ君.exe
+C:\Users\孝憲\OneDrive\アプリケーション\便利けんさ君\便利けんさ君\bin\Debug\便利けんさ君.pdb
+C:\Users\孝憲\OneDrive\アプリケーション\便利けんさ君\便利けんさ君\bin\Debug\Common.dll
+C:\Users\孝憲\OneDrive\アプリケーション\便利けんさ君\便利けんさ君\bin\Debug\Common.pdb
+C:\Users\孝憲\OneDrive\アプリケーション\便利けんさ君\便利けんさ君\obj\Debug\便利けんさ君.csprojResolveAssemblyReference.cache
+C:\Users\孝憲\OneDrive\アプリケーション\便利けんさ君\便利けんさ君\obj\Debug\便利けんさ君.Form1.resources
+C:\Users\孝憲\OneDrive\アプリケーション\便利けんさ君\便利けんさ君\obj\Debug\便利けんさ君.Properties.Resources.resources
+C:\Users\孝憲\OneDrive\アプリケーション\便利けんさ君\便利けんさ君\obj\Debug\便利けんさ君.csproj.GenerateResource.Cache
+C:\Users\孝憲\OneDrive\アプリケーション\便利けんさ君\便利けんさ君\obj\Debug\便利けんさ君.exe
+C:\Users\孝憲\OneDrive\アプリケーション\便利けんさ君\便利けんさ君\obj\Debug\便利けんさ君.pdb
+C:\Users\孝憲\OneDrive\アプリケーション\assembly\便利けんさ君.exe.config
+C:\Users\孝憲\OneDrive\アプリケーション\assembly\便利けんさ君.exe
+C:\Users\孝憲\OneDrive\アプリケーション\assembly\便利けんさ君.pdb
+C:\Users\孝憲\OneDrive\アプリケーション\便利けんさ君\便利けんさ君\obj\Debug\便利けんさ君.Form2.resources
